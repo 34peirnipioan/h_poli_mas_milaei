@@ -1,6 +1,5 @@
 # h_poli_mas_milaei
 # Η ΠΟΛΗ ΜΑΣ ΜΙΛΑΕΙ  
-## Ηχο-Παραμύθια της Γειτονιάς μας για Όλους
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Preschool Education](https://img.shields.io/badge/Education-Preschool-blue)
 ![Accessibility](https://img.shields.io/badge/Accessibility-Inclusive-orange)
@@ -8,6 +7,7 @@
 ![Ioannina](https://img.shields.io/badge/City-Ioannina-0E7490)
 ![Audio Stories](https://img.shields.io/badge/Format-Audio%20Stories-red)
 ![QR Experience](https://img.shields.io/badge/Interactive-QR%20Codes-black)
+## Ηχο-Παραμύθια της Γειτονιάς μας για Όλους
 
 ### 34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων
 
