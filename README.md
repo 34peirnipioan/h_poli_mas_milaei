@@ -6,6 +6,7 @@
   <img src="photos/roloi-ioannina.jpg" width="700">
 </p>
 # Η ΠΟΛΗ ΜΑΣ ΜΙΛΑΕΙ  
+
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Preschool Education](https://img.shields.io/badge/Education-Preschool-blue)
 ![Accessibility](https://img.shields.io/badge/Accessibility-Inclusive-orange)
