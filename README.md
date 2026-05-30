@@ -159,7 +159,37 @@ model/
 
 ## Οι αφίσες της δράσης στο κέντρο της πόλης
 
-(θα προστεθούν φωτογραφίες)
+![Η Πόλη μας Μιλάει](photos/roloi-ioannina.jpg)
+
+![Οι αφίσες στο Ρολόι Ιωαννίνων](photos/roloi-ioannina-posters.jpg)
+
+---
+
+## Η μακέτα του έργου
+
+![Μακέτα](model/project-model.jpg)
+
+![Μακέτα 1](model/project-model%201.jpg)
+
+![Μακέτα 2](model/project-model%202.jpg)
+
+![Μακέτα 3](model/project-model%203.jpg)
+
+---
+
+## Διάχυση στη σχολική κοινότητα
+
+![Παρουσίαση σε γονείς](dissemination/parent-dissemination%201.jpg)
+
+![Παρουσίαση σε γονείς](dissemination/parent-dissemination%202.jpg)
+
+![Παρουσίαση σε γονείς](dissemination/parent-dissemination%203.jpg)
+
+---
+
+## Τοποθέτηση QR Codes
+
+![QR Installation](photos/qr-installation-kep.png)
 
 ---
 
