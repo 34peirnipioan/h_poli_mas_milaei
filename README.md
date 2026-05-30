@@ -1,4 +1,10 @@
-# h_poli_mas_milaei
+# Η ΠΟΛΗ ΜΑΣ ΜΙΛΑΕΙ
+
+## Ηχο-Ιστορίες της Πόλης μας για Όλους
+
+<p align="center">
+  <img src="photos/roloi-ioannina.jpg" width="700">
+</p>
 # Η ΠΟΛΗ ΜΑΣ ΜΙΛΑΕΙ  
 ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
 ![Preschool Education](https://img.shields.io/badge/Education-Preschool-blue)
