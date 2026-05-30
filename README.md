@@ -14,7 +14,6 @@
 ![Ioannina](https://img.shields.io/badge/City-Ioannina-0E7490)
 ![Audio Stories](https://img.shields.io/badge/Format-Audio%20Stories-red)
 ![QR Experience](https://img.shields.io/badge/Interactive-QR%20Codes-black)
-## Ηχο-Παραμύθια της Γειτονιάς μας για Όλους
 
 ### 34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων
 
