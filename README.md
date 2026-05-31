@@ -175,12 +175,6 @@ https://sites.google.com/view/i-poli-mas-milaei
 
 ---
 
-## 📜 Άδεια Χρήσης
-
-Creative Commons Attribution – NonCommercial – ShareAlike 4.0 International (CC BY-NC-SA 4.0)
-
----
-
 ## ✨ Η Πόλη μας Μιλάει
 
 Μικρές φωνές.  
