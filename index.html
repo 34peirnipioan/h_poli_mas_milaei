@@ -1,269 +1,151 @@
 <!DOCTYPE html>
 <html lang="el">
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <title>Η Πόλη μας Μιλάει</title>
 
-<style>
+<link rel="stylesheet" href="style.css">
 
-body{
-margin:0;
-font-family:Arial, sans-serif;
-line-height:1.6;
-background:#f8fafc;
-color:#222;
-}
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
 
-header{
-height:100vh;
-background:url('photos/roloi-ioannina.jpg') center/cover;
-display:flex;
-align-items:center;
-justify-content:center;
-text-align:center;
-color:white;
-}
-
-.hero{
-background:rgba(0,0,0,0.55);
-padding:40px;
-border-radius:20px;
-}
-
-.hero h1{
-font-size:4rem;
-margin:0;
-}
-
-.hero p{
-font-size:1.5rem;
-}
-
-.btn{
-display:inline-block;
-padding:15px 30px;
-background:#0ea5e9;
-color:white;
-text-decoration:none;
-border-radius:10px;
-margin-top:20px;
-}
-
-section{
-max-width:1200px;
-margin:auto;
-padding:80px 20px;
-}
-
-h2{
-text-align:center;
-color:#0f172a;
-margin-bottom:40px;
-}
-
-.cards{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(250px,1fr));
-gap:20px;
-}
-
-.card{
-background:white;
-padding:25px;
-border-radius:15px;
-box-shadow:0 5px 15px rgba(0,0,0,0.1);
-}
-
-.gallery{
-display:grid;
-grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
-gap:20px;
-}
-
-.gallery img{
-width:100%;
-border-radius:15px;
-}
-
-.stats{
-display:flex;
-justify-content:center;
-gap:60px;
-flex-wrap:wrap;
-text-align:center;
-}
-
-.stat h3{
-font-size:3rem;
-margin:0;
-color:#0284c7;
-}
-
-footer{
-background:#0f172a;
-color:white;
-text-align:center;
-padding:40px;
-}
-
-</style>
 </head>
 
 <body>
 
-<header>
+<header class="hero">
 
-<div class="hero">
+<div class="overlay">
 
-<h1>Η ΠΟΛΗ ΜΑΣ ΜΙΛΑΕΙ</h1>
+<h1>Η Πόλη μας Μιλάει</h1>
 
-<p>Ηχο-Ιστορίες της Πόλης μας για Όλους</p>
+<p>
+Ηχο-Ιστορίες της Πόλης μας για Όλους
+</p>
 
-<a class="btn" href="https://sites.google.com/view/i-poli-mas-milaei">
-Επισκεφθείτε την Πλατφόρμα
+<a href="#about" class="btn">
+Ανακάλυψε το έργο
 </a>
 
 </div>
 
 </header>
 
-<section>
+<section id="about">
 
 <h2>Το Έργο</h2>
 
-<p style="text-align:center;max-width:900px;margin:auto;">
+<p>
 
-Το έργο «Η Πόλη μας Μιλάει» αποτελεί μια καινοτόμο δράση
-προσχολικής εκπαίδευσης που συνδέει τα παιδιά,
-την τοπική κοινότητα και τις ανοιχτές τεχνολογίες.
-
-Οι μαθητές δημιούργησαν πρωτότυπες ηχοϊστορίες για τη
-συμπερίληψη, την καλοσύνη, το περιβάλλον και την ενεργό
-πολιτειότητα, μετατρέποντας την πόλη των Ιωαννίνων
-σε έναν ανοιχτό χώρο αφήγησης και συμμετοχής.
+Μια πρωτοβουλία του 34ου Πειραματικού Νηπιαγωγείου Ιωαννίνων που μετατρέπει την πόλη σε έναν ανοιχτό χώρο αφήγησης, συμμετοχής και συμπερίληψης.
 
 </p>
 
 </section>
 
-<section>
-
-<h2>Οι Ηχοϊστορίες</h2>
-
-<div class="cards">
-
-<div class="card">🎧 Η πόλη που καλωσορίζει</div>
-
-<div class="card">🎧 Η πόλη που είχε χώρο για όλους</div>
-
-<div class="card">🎧 Η λίμνη που ζητούσε βοήθεια</div>
-
-<div class="card">🎧 Όταν η πόλη σιωπαίνει</div>
-
-<div class="card">🎧 Η πόλη που άκουγε</div>
-
-<div class="card">🎧 Τα πράγματα που ήθελαν μια δεύτερη ευκαιρία</div>
-
-<div class="card">🎧 Το σκυλάκι που περίμενε</div>
-
-<div class="card">🎧 Όταν τα σήματα μίλησαν</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2>Ανοιχτές Τεχνολογίες</h2>
-
-<div class="cards">
-
-<div class="card">🎙 Audacity</div>
-
-<div class="card">💻 GitHub</div>
-
-<div class="card">🗺 Google Maps</div>
-
-<div class="card">🌐 Google Sites</div>
-
-<div class="card">📱 QR Codes</div>
-
-<div class="card">🤝 Padlet</div>
-
-</div>
-
-</section>
-
-<section>
-
-<h2>Κοινωνικός Αντίκτυπος</h2>
-
-<div class="stats">
+<section class="stats">
 
 <div class="stat">
-<h3>8</h3>
+<h3 class="counter" data-target="8">0</h3>
 <p>Ηχοϊστορίες</p>
 </div>
 
 <div class="stat">
-<h3>9</h3>
+<h3 class="counter" data-target="9">0</h3>
 <p>Σημεία στην πόλη</p>
 </div>
 
 <div class="stat">
-<h3>1</h3>
-<p>Ανοιχτή κοινότητα μάθησης</p>
+<h3 class="counter" data-target="1">0</h3>
+<p>Δήμος</p>
 </div>
 
+<div class="stat">
+<h3 class="counter" data-target="100">0</h3>
+<p>% Συμμετοχή παιδιών</p>
 </div>
 
 </section>
 
-<section>
+<section class="timeline">
 
-<h2>Φωτογραφίες Έργου</h2>
+<h2>Χρονολόγιο</h2>
 
-<div class="gallery">
+<div class="timeline-item">
+2024 — Σύλληψη ιδέας
+</div>
 
+<div class="timeline-item">
+Ιανουάριος 2025 — Διαγωνισμός
+</div>
+
+<div class="timeline-item">
+Άνοιξη 2025 — Δημιουργία ιστοριών
+</div>
+
+<div class="timeline-item">
+Μάιος 2025 — QR Codes & Τοποθέτηση
+</div>
+
+<div class="timeline-item">
+Ιούνιος 2025 — Διάχυση
+</div>
+
+</section>
+
+<section class="gallery">
+
+<h2>Gallery</h2>
+
+<div class="grid">
+
+<img src="photos/roloi-ioannina.jpg">
 <img src="photos/roloi-ioannina-posters.jpg">
-
 <img src="model/project-model.jpg">
-
 <img src="photos/qr-installation-kep.png">
 
 </div>
 
 </section>
 
-<section>
+<section class="impact">
 
-<h2>Δείτε το έργο</h2>
+<h2>Κοινωνικός Αντίκτυπος</h2>
 
-<p style="text-align:center;">
+<div class="cards">
 
-<a class="btn" href="README.md">
-Πλήρης Τεκμηρίωση
-</a>
+<div class="card">
+<h3>Συμπερίληψη</h3>
+<p>Οι ιστορίες προάγουν την αποδοχή και τη διαφορετικότητα.</p>
+</div>
 
-</p>
+<div class="card">
+<h3>Περιβάλλον</h3>
+<p>Δράσεις για τη λίμνη και τη βιωσιμότητα.</p>
+</div>
+
+<div class="card">
+<h3>Ενεργός Πολίτης</h3>
+<p>Τα παιδιά δημιουργούν περιεχόμενο για την πόλη.</p>
+</div>
+
+</div>
 
 </section>
 
 <footer>
 
-<h3>34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων</h3>
-
 <p>
-Η Πόλη μας Μιλάει
-</p>
 
-<p>
-Creative Commons CC BY-NC-SA 4.0
+34ο Πειραματικό Νηπιαγωγείο Ιωαννίνων
+
 </p>
 
 </footer>
+
+<script src="script.js"></script>
 
 </body>
 </html>
