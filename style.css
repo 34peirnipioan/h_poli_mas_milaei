@@ -404,3 +404,21 @@ padding:70px 7%;
     width:100%;
     height:100%;
 }
+
+.presentation-photo{
+
+display:block;
+
+max-width:1000px;
+
+width:100%;
+
+height:auto;
+
+margin:40px auto;
+
+border-radius:20px;
+
+box-shadow:0 10px 30px rgba(0,0,0,.15);
+
+}
